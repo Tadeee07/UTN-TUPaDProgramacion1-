@@ -30,7 +30,6 @@ Sigue estos pasos para ejecutar y probar el sistema:
 1.  **Clonar el Repositorio:**
     Abre tu terminal y descarga el proyecto:
     ```bash
-    git clone (https://github.com/Tadeee07/UTN-TUPaDProgramacion1-.git)
     https://github.com/Tadeee07/UTN-TUPaDProgramacion1-/tree/main/INTEGRADOR
     
 
